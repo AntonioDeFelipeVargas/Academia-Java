@@ -1,0 +1,24 @@
+# Archivos compilados
+*.class
+target/
+bin/
+out/
+
+# Archivos de configuración del IDE
+.idea/
+*.iml
+.classpath
+.project
+
+# Archivos de dependencias
+.gradle/
+/libs
+
+# Archivos temporales
+*.log
+*.tmp
+*.temp
+
+# Archivos del sistema operativo
+.DS_Store
+Thumbs.db
